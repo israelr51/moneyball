@@ -1,0 +1,2 @@
+rootProject.name='moneyball_logo'
+include ':app'
